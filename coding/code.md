@@ -295,8 +295,6 @@ https://stackskills.com/?_ga=1.88700252.651452803.1488044308
 
 [stackoverflow.](http://stackoverflow.com/questions/18804904/retrieve-all-videos-from-youtube-playlist-using-youtube-v3-api)
 
-[frostyzach.tk/](http://frostyzach.tk/post/159100853822/computer-scienceengineering-masterpost)
-
 [/www.upwork.co](https://www.upwork.com/i/how-it-works/freelancer/)
 
 [/www.wayup.com](https://www.wayup.com/member/jobs-listing)
@@ -386,8 +384,6 @@ https://stackskills.com/?_ga=1.88700252.651452803.1488044308
 [/github.com/os](https://github.com/ossu/computer-science)
 
 [/adreamimfollo](https://adreamimfollowing.tumblr.com/post/141169634630/heres-some-programming-tools)
-
-[/github.com/ch](https://github.com/chrisrocco/cs334-labs-sockets-node)
 
 [/realpython.co](https://realpython.com/python-sockets/)
 
