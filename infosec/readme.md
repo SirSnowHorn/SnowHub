@@ -2,6 +2,8 @@
 
 These links revolve around hacking, cybersecurity, analysis, OSINT, etc!
 
+[Malware Traffic Analysis](https://www.malware-traffic-analysis.net/index.html)
+
 [www.linuxleo.c](http://www.linuxleo.com/)
 
 [/www.hackthiss](https://www.hackthissite.org/)
