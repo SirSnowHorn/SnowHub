@@ -43,6 +43,48 @@ https://gist.github.com/mjburgess/3112886
 
 https://github.com/opencv/opencv
 
+[/github.com/](https://github.com/)
+
+[www.vogella.co](http://www.vogella.com/tutorials/EclipseGit/article.html#completely-new-to-git)
+
+[/www.gitbook.c](https://www.gitbook.com/@devopscollective)
+
+[/github.com/ad](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[/github.com/ge](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+
+[/git.cis.uab.e](https://git.cis.uab.edu/jharri34/cs330/blob/master/src/harrisj1.asm)
+
+[/github.com/ev](https://github.com/evantravers/repositories)
+
+[/github.com/da](https://github.com/dargaCode/WebDevStudyResources)
+
+[/education.git](https://education.github.com/pack)
+
+[/github.com/Ha](https://github.com/Hack-with-Github/Free-Security-eBooks-from-PacktPub?files=1)
+
+[/github.com/Ra](https://github.com/Raikia/FiercePhish)
+
+[/github.com/sb](https://github.com/sbilly/awesome-security)
+
+[/gist.github.c](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+
+[/github.com/be](https://github.com/berzerk0/Probable-Wordlists)
+
+[/github.com/ma](https://github.com/mattdesl/graphics-resources)
+
+[/gogul09.githu](https://gogul09.github.io/blog/)
+
+[/github.com/Eb](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+
+[/github.com/gi](https://github.com/giampaolo/psutil)
+
+[/github.com/mi](https://github.com/mikesprague/udacity-nanodegrees#front-end-web-developer-nanodegree)
+
+[/github.com/os](https://github.com/ossu/computer-science)
+
+[/learngitbranc](https://learngitbranching.js.org/)
+
 ## Resources
 
 https://www.safaribooksonline.com/
