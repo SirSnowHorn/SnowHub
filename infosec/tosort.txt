@@ -1,0 +1,90 @@
+Learning thread
+Learning:
+http://www.securitytube.net/
+http://creator.wonderhowto.com/occupythewebotw/
+http://n0where.net/
+http://www.offensive-security.com/metasploit-unleashed
+http://www.exploit-db.com/
+http://resources.infosecinstitute.com/
+http://www.windowsecurity.com/articles-tutorials/
+http://www.securitysift.com/
+http://www.sans.org/reading-room/
+http://packetstormsecurity.com/files/
+https://www.corelan.be/index.php/articles/
+http://routerpwn.com/
+http://opensecuritytraining.info/Training.html
+https://www.blackhat.com/html/archives.html
+http://magazine.hitb.org/hitb-magazine.html
+News:
+https://threatpost.com/
+http://www.deepdotweb.com/
+Wargames:
+http://overthewire.org/wargames/
+https://www.pentesterlab.com/
+http://www.itsecgames.com/
+https://exploit-exercises.com/
+http://www.enigmagroup.org/
+http://smashthestack.org/
+http://3564020356.org/
+http://www.hackthissite.org/
+http://www.hackertest.net/
+Distros:
+https://www.kali.org/
+http://sourceforge.net/projects/metasploitable/
+https://tails.boum.org/
+http://www.wifislax.com/
+>Where to start
+https://youtube.com/watch?v=gPNnXmTezak [Embed] [Embed]
+https://youtu.be/pB0WvcxTbCA [Embed]
+>Learning material
+https://www.codecademy.com/
+https://programming-motherfucker.com/
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+https://www.theodinproject.com/
+>Frontend development
+https://github.com/dypsilon/frontend-dev-bookmarks
+>Backend development
+https://en.m.wikipedia.org/wiki/Comparison_of_web_application_frameworks
+[Gist] backendDevelopmentBookmarks.md
+>Useful tools
+https://pastebin.com/q5nB1Npt/
+https://libraries.io/ - Discover new open source libraries, modules and frameworks and keep track of ones you depend upon.
+>NEET guide to web dev employment
+https://pastebin.com/4YeJAUbT/
+>How I Got a Job in Web Development
+http://elliotec.com/how-i-got-a-job-in-web-development/
+https://w3challs.com/
+https://www.hellboundhackers.org/
+http://io.smashthestack.org/
+p=probs">http://pwnable.krp=probs
+http://overthewire.org/wargames/
+https://tuts4you.com/
+http://woodmann.com/
+http://www.openrce.org/articles/
+http://search.lores.eu/indexo.htm
+http://phrack.org/index.html
+Input data - https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt
+Presentations:
+DEF Con Media server - https://media.defcon.org/
+Carolina Con Presentations - https://www.youtube.com/user/CarolinaConVideos/videos
+Tutorials:
+Windows escalation - http://www.fuzzysecurity.com/tutorials/16.html
+Linux escalation - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+Courses/Study:
+How To Hack and Defend Your Website In 3 Hours - http://course.hyperiongray.com/vcourse/
+Opensecurity - http://opensecuritytraining.info/Training.html
+CTF/Practice:
+List of CTFs - http://captf.com/practice-ctf/
+Vulnhub - https://www.vulnhub.com/
+Cracking/Hash lookup:
+Hashfinder - http://finder.insidepro.com/
+Hashkiller - https://hashkiller.co.uk/
+Hashes.org (Leaked lists) - https://hashes.org/public.php
+Info Gathering:
+Yandex – www.yandex.com
+Website source search engine - https://nerdydata.com/search
+Lockpick Guide - http://www.lysator.liu.se/mit-guide/MITLockGuide.pdf
+OPSEC - http://grugq.github.io/
+https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+http://axiom.cafe/cynet/cyber/
+​
