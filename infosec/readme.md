@@ -177,3 +177,87 @@ These links revolve around hacking, cybersecurity, analysis, OSINT, etc!
 [/jhalon.github](https://jhalon.github.io/becoming-a-pentester/)
 
 [/osintframewor](https://osintframework.com/))
+
+to be formatted websites
+
+http://www.phaster.com/find_info_net_traffic.shtml
+
+https://hackerexperience.com/
+
+https://www.hackthissite.org
+
+http://www.ibtimes.co.uk/hack-website-anonymous-sql-ddos-loic-333713
+
+http://www.hackingloops.com
+
+https://pentest-tools.com/home
+
+www.hackerlist.com
+
+http://www.novirusthanks.org/(Online File Scanner)
+
+http://www.virustotal.com(Online File Scanner)
+
+http://anubis.iseclab.org/(Online File Scanner)
+
+http://www.ipvoid.com/(IP Address scanner)
+
+http://www.threatlog.com/(HoneyPot Database)
+
+http://www.idoproxy.com(proxy)
+
+http://whois.domaintools.com/(Whois lookup)
+
+http://www.robtex.com/(swiss army knife internet tool)
+
+http://www.netirk.com/(Pinger)
+
+http://www.ahbl.org/lktool(IP Lookup)
+
+http://www.blocklist.de/
+
+http://www.cirt.net/passwords(Default password list)
+
+http://www.cirt.net/ports(Default Ports List)
+
+http://www.urlvoid.com/extract-url/(URL Shortener extractor)
+
+http://www.urlvoid.com/http-headers/(Show the HTTP headers of a link)
+
+http://www.urlvoid.com/find-parasites/(Find Parasites)
+
+http://www.urlvoid.com/url-dump/(URL Dump)
+
+http://www.fail2ban.org/wiki/index.php/Main_Page( For your website)
+
+http://www.nmap.org(port scanner)
+
+http://exploitsearch.com/(google engine)
+
+http://www.exploitsearch.net/(nvd,osvdb,metasploit,…)
+
+http://shodan.surtri.com/(engine)
+
+http://www.hack0wn.com/advisories.php
+
+http://www.1337day.com/
+
+http://www.exploit-db.com/
+
+http://securityvulns.com/
+
+http://www.zerodayinitiative.com/advisories/published/
+
+http://seclists.org/fulldisclosure/
+
+https://web.nvd.nist
+
+https://web.nvd.nist.gov/view/vuln/search?cid=3
+
+https://www.us-cert
+
+https://www.us-cert.gov/cas/techalerts/
+
+http://www.cvedetails.com/
+
+http://routerpwn.com/
