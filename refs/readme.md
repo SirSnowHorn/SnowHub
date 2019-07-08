@@ -1,10 +1,6 @@
 # These are general references.
 
-[www.pastryaffa](http://www.pastryaffair.com/blog/2011/7/10/harry-potter-treats.html)
-
 [/jsonplacehold](https://jsonplaceholder.typicode.com/)
-
-[killyouranxiet](http://killyouranxiety.com/post/59330764563/hobbies-masterpost)
 
 [introcs.cs.pri](http://introcs.cs.princeton.edu/java/home/)
 
@@ -21,8 +17,6 @@
 [/www.mint.com/](https://www.mint.com/)
 
 [heyfunniest.co](http://heyfunniest.com/post/84507015309)
-
-[the-perksofbei](http://the-perksofbeingbri.tumblr.com/post/137102773177/how-to-grow-the-fuck-up)
 
 [/docs.google.c](https://docs.google.com/document/d/13elGB4-psGwC9w8DYN3mbGEBZgmyhhlFnwfnsPt8Cik/edit)
 
