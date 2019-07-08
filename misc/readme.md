@@ -4,8 +4,6 @@
 
 [/www.hackster.](https://www.hackster.io/)
 
-[/freebitco.in/](https://freebitco.in/?op=home#)
-
 [/roll20.net/](https://roll20.net/)
 
 [openrpg.io/](http://openrpg.io/)
@@ -24,9 +22,6 @@
 
 [plays.tv/home](http://plays.tv/home)
 
-[/block.io/dash](https://block.io/dashboard/doge)
-
-[/www.thebetter](https://www.thebettermeta.com/)
 
 [www.initializr](http://www.initializr.com/)
 
