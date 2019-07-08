@@ -40,8 +40,6 @@ These links revolve around hacking, cybersecurity, analysis, OSINT, etc!
 
 [/mlh.io/events](https://mlh.io/events)
 
-[/docs.google.c](https://docs.google.com/document/d/1LWw2Cxfu55vMRDEcznASkK8jJXBJsuC5-is3uf-h3rg/edit)
-
 [/github.com/me](https://github.com/meirwah/awesome-incident-response)
 
 [/github.com/hs](https://github.com/hslatman/awesome-threat-intelligence)
@@ -120,9 +118,7 @@ These links revolve around hacking, cybersecurity, analysis, OSINT, etc!
 
 [/www.social-en](https://www.social-engineer.org/)
 
-[/account.proto](https://account.protonvpn.com/dashboard)
-
-[/samsclass.inf](https://samsclass.info/127/127_S18.shtml)
+/samsclass.inf](https://samsclass.info/127/127_S18.shtml)
 
 [/samsclass.inf](https://samsclass.info/123/123_S18.shtml)
 
@@ -159,8 +155,6 @@ These links revolve around hacking, cybersecurity, analysis, OSINT, etc!
 [/www.openlearn](https://www.openlearning.com/courses/unconventional-cryptography/)
 
 [/github.com/In](https://github.com/Info-security/binary-auditing-training)
-
-[/drive.google.](https://drive.google.com/folderview?id=0B7jWflk4TmF3WEhqQVFmMHN3Q2s&usp=sharing)
 
 [/github.com/lk](https://github.com/lkw657/reversing_slides)
 
