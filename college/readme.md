@@ -26,8 +26,6 @@
 
 [discretetext.o](http://discretetext.oscarlevin.com/dmoi/sec_intro-sets.html)
 
-[nArticles](LinkedInArticles)
-
 [unpicasso.tumb](http://unpicasso.tumblr.com/post/153005601842/probably-my-favorite-thing-abt-being-a-millennial)
 
 [tangoproxy.tum](http://tangoproxy.tumblr.com/post/151849999954/how-to-include-dungeons-dragons-on-your-resume)
@@ -64,29 +62,11 @@
 
 [bayanbox.ir/vi](http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf)
 
-[www.snoozysuab](http://www.snoozysuab.com/buy_book_detail.asp?pf_id=10269428)
-
 [/www.dartlang.](https://www.dartlang.org/)
 
 [/blog.kissmetr](https://blog.kissmetrics.com/mistakes-in-app-marketing/)
 
 [/www.entrepren](https://www.entrepreneur.com/article/238849)
-
-[/www.uab.edu/c](https://www.uab.edu/cas/mathematics/calculus-testbank)
-
-[/www.wayup.com](https://www.wayup.com/?refer=engineeredtruth)
-
-[progzoo.net/wi](http://progzoo.net/wiki/Python:Flags_with_Polygons_Tutorial)
-
-[/vimeo.com/hom](https://vimeo.com/home)
-
-[www.math.ucsd.](http://www.math.ucsd.edu/~ronspubs/#72)
-
-[/trello.com/](https://trello.com/)
-
-[www.ratemyprof](http://www.ratemyprofessors.com/)
-
-[www.mspaintadv](http://www.mspaintadventures.com/?s=6)
 
 [thisgirlcodes.](http://thisgirlcodes.tumblr.com/post/153273517442/catsandcode-the-first-pirate-website-in-the)
 
@@ -97,8 +77,6 @@
 [www.oreilly.co](http://www.oreilly.com/free/reports.html)
 
 [www.twelveskip](http://www.twelveskip.com/tutorials/tumblr/541/6-top-surefire-ways-to-earn-money-using-tumblr)
-
-[/trello.com/b/](https://trello.com/b/2GotxipX/week)
 
 [/iconsflow.com](https://iconsflow.com/dashboard)
 
