@@ -70,8 +70,6 @@
 
 [/adventofcode.](https://adventofcode.com/)
 
-[yukoki.tumblr.](http://yukoki.tumblr.com/)
-
 [www2.fiit.stub](http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf)
 
 [/var-resources](https://var-resources.tumblr.com/post/154250517723/hersheywrites-trappunzelll)
@@ -90,17 +88,11 @@
 
 [www.computersc](http://www.computerscienceonline.org/cs-scholarships/)
 
-[/uab.academicw](https://uab.academicworks.com/)
-
 [bcs.wiley.com/](http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=7872&itemId=1118431111&resourceId=30501)
 
 [bcs.wiley.com/](http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=9799&itemId=1119056446&resourceId=39291)
 
 [/www.exploit-d](https://www.exploit-db.com/google-hacking-database/9/)
-
-[yourtubetheme.](http://yourtubetheme.com/youtube-channel-art-templates/)
-
-[img-9gag-fun.9](http://img-9gag-fun.9cache.com/photo/a1dn1z6_700b.jpg)
 
 [neuralnetworks](http://neuralnetworksanddeeplearning.com/index.html)
 
@@ -109,8 +101,6 @@
 [/github.com/vh](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 [/www.tripwire.](https://www.tripwire.com/state-of-security/off-topic/5-tips-to-get-an-a-on-research-papers-advance-your-infosec-career/?utm_source=dlvr.it&utm_medium=tumblr)
-
-[/piktochart.co](https://piktochart.com/)
 
 [interactivepyt](http://interactivepython.org/courselib/static/java4python/index.html)
 
