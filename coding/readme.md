@@ -245,12 +245,6 @@ https://stackskills.com/?_ga=1.88700252.651452803.1488044308
 
 [/medium.mybrid](https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.49xd6mf1i)
 
-[/files.000webh](https://files.000webhost.com/)
-
-[/blazerbuy.000](https://blazerbuy.000webhostapp.com/#)
-
-[/proto.io/?gcl](https://proto.io/?gclid=Cj0KEQiAx7XBBRCdyNOw6PLHrYABEiQAJtyEQ3c5lH-zH6g8yQQ2TgU_UkfPxGCoGTYODJDy8uy3KvMaApWo8P8HAQ)
-
 [htmldog.com/](http://htmldog.com/)
 
 [www.quackit.co](http://www.quackit.com/)
