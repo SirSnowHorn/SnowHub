@@ -18,8 +18,6 @@
 
 [heyfunniest.co](http://heyfunniest.com/post/84507015309)
 
-[/docs.google.c](https://docs.google.com/document/d/13elGB4-psGwC9w8DYN3mbGEBZgmyhhlFnwfnsPt8Cik/edit)
-
 [firedrill.tumb](http://firedrill.tumblr.com/post/137322625311/try-to-get-writing-aghostnotaguardian)
 
 [musicinanime.t](http://musicinanime.tumblr.com/post/137313712421/theme-of-one-punch-man-seigi-shikkou-makoto)
