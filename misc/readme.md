@@ -22,7 +22,6 @@
 
 [plays.tv/home](http://plays.tv/home)
 
-
 [www.initializr](http://www.initializr.com/)
 
 [/www.notebook.](https://www.notebook.ai/)
