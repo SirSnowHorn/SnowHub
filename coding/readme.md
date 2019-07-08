@@ -15,8 +15,6 @@ https://www.vikingcodeschool.com/
 
 https://www.sololearn.com/Courses/
 
-http://devforum.roblox.com/c/public/public-tutorials
-
 https://www.rithmschool.com/courses/javascript
 
 http://www.tutorialspoint.com/
@@ -121,11 +119,7 @@ https://hackerone.com/
 
 http://www.oracle.com/technetwork/community/developer-vm/index.html#openstack
 
-http://www.roblox.com/Leaderboard-with-DamageDealt-item?id=445061171
-
 https://www.jus.uio.no/sisu/don_quixote.miguel_de_cervantes/portrait.a4.pdf
-
-https://www.linkedin.com/learning?trk=nav_learning
 
 http://oedb.org/open/
 
@@ -160,8 +154,6 @@ https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
 http://www.asmcommunity.net/
 
 https://open.kattis.com/
-
-https://github.com/evantravers/CS-330/blob/master/assignment1/windows32/hw1.asm
 
 https://visualgo.net/en
 
@@ -201,7 +193,7 @@ https://teamtreehouse.com/
 
 https://academy.sciencealert.com/user/purchases
 
-https://stackskills.com/?_ga=1.88700252.651452803.1488044308
+https://stackskills.com/
 
 [www.pythontuto](http://www.pythontutor.com/)
 
@@ -213,10 +205,6 @@ https://stackskills.com/?_ga=1.88700252.651452803.1488044308
 
 [/www.datacamp.](https://www.datacamp.com/)
 
-[www.hackerhigh](http://www.hackerhighschool.org/)
-
-[/github.com/](https://github.com/)
-
 [www.zdnet.com/](http://www.zdnet.com/)
 
 [/codebreaker.l](https://codebreaker.ltsnet.net/home)
@@ -227,10 +215,6 @@ https://stackskills.com/?_ga=1.88700252.651452803.1488044308
 
 [www.freetechbo](http://www.freetechbooks.com/algorithms-and-data-structures-f11.html)
 
-[www.koding.com](http://www.koding.com/)
-
-[/codeanywhere.](https://codeanywhere.com/)
-
 [/www.coursera.](https://www.coursera.org/learn/introduction-to-algorithms)
 
 [entertainment.](http://entertainment.howstuffworks.com/leisure/brain-games/beginners-guide-dungeons-and-dragons.htm)
@@ -238,8 +222,6 @@ https://stackskills.com/?_ga=1.88700252.651452803.1488044308
 [programmingrav](http://programmingravenclaw.tumblr.com/post/152932697544/hobbies-masterpost)
 
 [www.devinline.](http://www.devinline.com/)
-
-[insights.dice.](http://insights.dice.com/career-toolkit/)
 
 [eloquentjavasc](http://eloquentjavascript.net/)
 
@@ -281,8 +263,6 @@ https://stackskills.com/?_ga=1.88700252.651452803.1488044308
 
 [/www.google.co](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 
-[/docs.google.c](https://docs.google.com/document/d/1lxD9doamyPdOjrIj-HGzC7t51cXRtBYEH-6gnX8ZvbY/edit)
-
 [/www.reddit.co](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
 
 [/github.com/ad](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -302,10 +282,6 @@ https://stackskills.com/?_ga=1.88700252.651452803.1488044308
 [cs76.tv/2011/s](http://cs76.tv/2011/spring/)
 
 [cs.jhu.edu/~ra](http://cs.jhu.edu/~ragib/sp10/cs412/)
-
-[/git.cis.uab.e](https://git.cis.uab.edu/jharri34/cs330/blob/master/src/harrisj1.asm)
-
-[/github.com/ev](https://github.com/evantravers/repositories)
 
 [/www.toptal.co](https://www.toptal.com/designers/subtlepatterns/)
 
