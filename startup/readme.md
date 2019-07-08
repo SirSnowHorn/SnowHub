@@ -22,8 +22,6 @@
 
 [/my.freenom.co](https://my.freenom.com/clientarea.php)
 
-[/www.google.co](https://www.google.com/adsense/new/u/0/pub-3225962426194597/home)
-
 [/proto.io/](https://proto.io/)
 
 [/www.justinmin](https://www.justinmind.com/examples)
