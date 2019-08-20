@@ -4,100 +4,92 @@
 
 [startupclass.s](http://startupclass.samaltman.com/)
 
-[/www.nngroup.c](https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/)
+[Don't listen to Users](https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/)
 
-[/library.gv.co](https://library.gv.com/rapid-user-research-how-to-survey-400-users-and-interview-10-in-three-days-11e9b0a9475)
+[How to Survey 400 Users in three days](https://library.gv.com/rapid-user-research-how-to-survey-400-users-and-interview-10-in-three-days-11e9b0a9475)
 
-[/library.gv.co](https://library.gv.com/8-shortcuts-for-better-faster-design-research-4fa0ddcad68a)
+[Faster Design Research](https://library.gv.com/8-shortcuts-for-better-faster-design-research-4fa0ddcad68a)
 
-[/smallbiztrend](https://smallbiztrends.com/2013/04/startup-checklist.html)
+[Startup Checklist](https://smallbiztrends.com/2013/04/startup-checklist.html)
 
-[smallbusiness.](http://smallbusiness.chron.com/)
+[Chron Smallbusiness](http://smallbusiness.chron.com/)
 
-[/iconsflow.com](https://iconsflow.com/login)
+[Iconsflow](https://iconsflow.com/login)
 
-[/leanstack.com](https://leanstack.com/leancanvas)
+[Leanstack](https://leanstack.com/leancanvas)
 
-[/www.patreon.c](https://www.patreon.com/frostyzach)
+[Free Domains!](https://my.freenom.com/clientarea.php)
 
-[/my.freenom.co](https://my.freenom.com/clientarea.php)
+[Proto.io](https://proto.io/)
 
-[/proto.io/](https://proto.io/)
+[justinmind](https://www.justinmind.com/examples)
 
-[/www.justinmin](https://www.justinmind.com/examples)
+[Entrepreneurs Handbook](https://blog.kissmetrics.com/entrepreneurs-handbook/)
 
-[/blog.kissmetr](https://blog.kissmetrics.com/entrepreneurs-handbook/)
+[Udacity How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 
-[/www.udacity.c](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+[Google for Startups](https://www.youtube.com/playlist?list=PL9KVIdeJ2K8MEMoZH5wzrHa4prGvrhHJA)
 
-[/www.youtube.c](https://www.youtube.com/playlist?list=PL9KVIdeJ2K8MEMoZH5wzrHa4prGvrhHJA)
+[How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&nohtml5=False)
 
-[/www.youtube.c](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&nohtml5=False)
+[When a Unicorn Startup Stumbles](https://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html)
 
-[/www.nytimes.c](https://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html)
+[Equity](https://gist.github.com/isaacsanders/1653078)
 
-[/gist.github.c](https://gist.github.com/isaacsanders/1653078)
+[Startupstockphotos](http://startupstockphotos.com/)
 
-[startupstockph](http://startupstockphotos.com/)
+[Logogarden](https://www.logogarden.com/)
 
-[/www.logogarde](https://www.logogarden.com/)
+[Packlane](https://packlane.com/#inventory)
 
-[/packlane.com/](https://packlane.com/#inventory)
+[Pexels](https://www.pexels.com/)
 
-[/www.pexels.co](https://www.pexels.com/)
+[Magdeleine.co](https://magdeleine.co/)
 
-[/magdeleine.co](https://magdeleine.co/)
+[Stocksnap.io/](https://stocksnap.io/)
 
-[/stocksnap.io/](https://stocksnap.io/)
+[Lifeofpix](https://www.lifeofpix.com/)
 
-[/www.lifeofpix](https://www.lifeofpix.com/)
+[Khan Academy Startup](https://www.reddit.com/r/Entrepreneur/comments/l411c/khanacademy_videos_revisit_the_basics/)
 
-[/www.reddit.co](https://www.reddit.com/r/Entrepreneur/comments/l411c/khanacademy_videos_revisit_the_basics/)
+[Startupstash](http://startupstash.com/)
 
-[startupstash.c](http://startupstash.com/)
+[Cutmypic](http://www.cutmypic.com/step2)
 
-[www.cutmypic.c](http://www.cutmypic.com/step2)
+[Omnicalculator](https://www.omnicalculator.com/)
 
-[/www.omnicalcu](https://www.omnicalculator.com/)
+[Invoiceninja](https://www.invoiceninja.com/)
 
-[/www.invoiceni](https://www.invoiceninja.com/)
+[and.co](https://www.and.co/)
 
-[/www.and.co/](https://www.and.co/)
+[Piktochart](https://create.piktochart.com/infographic)
 
-[/create.piktoc](https://create.piktochart.com/infographic)
+[Hootsuite.com](https://hootsuite.com/youtube#)
 
-[/hootsuite.com](https://hootsuite.com/youtube#)
+[Incompetech](https://incompetech.com/music/royalty-free/music.html)
 
-[/www.ytmonster](https://www.ytmonster.net/campaigns/new)
+[Iconarchive](http://www.iconarchive.com/)
 
-[/incompetech.c](https://incompetech.com/music/royalty-free/music.html)
+[Picmonkey](https://www.picmonkey.com/#go/editor/hp-button-lo)
 
-[www.iconarchiv](http://www.iconarchive.com/)
+[What is a Pitch Deck?](https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck)
 
-[/www.picmonkey](https://www.picmonkey.com/#go/editor/hp-button-lo)
+[Hacknplan](http://hacknplan.com/)
 
-[/pitchdeck.imp](https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck)
+[Xmind](https://www.xmind.net/zen/)
 
-[hacknplan.com/](http://hacknplan.com/)
+[Sendgrid](https://app.sendgrid.com/guide?from=profile&integrate=true)
 
-[/www.xmind.net](https://www.xmind.net/zen/)
+[Free GitHub Goodies](https://education.github.com/pack/offers)
 
-[/www.glitchthe](https://www.glitchthegame.com/)
+[Microsoft Virtual Academy](https://mva.microsoft.com/ebooks#9781509300594)
 
-[/app.sendgrid.](https://app.sendgrid.com/guide?from=profile&integrate=true)
+[Shortcutfoo](https://www.shortcutfoo.com/app)
 
-[/education.git](https://education.github.com/pack/offers)
+[Launchschool](https://launchschool.com/books)
 
-[/mva.microsoft](https://mva.microsoft.com/ebooks#9781509300594)
+[24slides](https://24slides.com/templates/dashboard/index)
 
-[/www.ncjrs.gov](https://www.ncjrs.gov/pdffiles1/nij/199408.pdf)
+[dulst.com](https://dulst.com/)
 
-[/www.shortcutf](https://www.shortcutfoo.com/app)
-
-[/launchschool.](https://launchschool.com/books)
-
-[/24slides.com/](https://24slides.com/templates/dashboard/index)
-
-[/dulst.com/](https://dulst.com/)
-
-[/www.quora.com](https://www.quora.com/What-are-the-best-questions-about-Entrepreneurship-on-Quora)
+[Best Questions about Entreprneurship](https://www.quora.com/What-are-the-best-questions-about-Entrepreneurship-on-Quora)
