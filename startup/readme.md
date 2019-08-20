@@ -1,8 +1,8 @@
 # This section has all the startup resources.
 
-[playbook.samal](http://playbook.samaltman.com/)
+[Playbook](http://playbook.samaltman.com/)
 
-[startupclass.s](http://startupclass.samaltman.com/)
+[Startupclass](http://startupclass.samaltman.com/)
 
 [Don't listen to Users](https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/)
 
